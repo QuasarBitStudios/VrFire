@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|c:\\users\\victor\\documents\\github\\vrgame\\assets\\_dev\\game\\astroorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|solutionrelative:assets\\_dev\\game\\astroorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\assets\\_dev\\game\\new\\astrochoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|solutionrelative:assets\\_dev\\game\\new\\astrochoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\assets\\_dev\\camera\\cameragaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|solutionrelative:assets\\_dev\\camera\\cameragaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\assets\\_dev\\game\\astroapresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|solutionrelative:assets\\_dev\\game\\astroapresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\assets\\_dev\\introcinemachine\\textintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|solutionrelative:assets\\_dev\\introcinemachine\\textintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\assets\\_dev\\camera\\gyrocameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|solutionrelative:assets\\_dev\\camera\\gyrocameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\Editor\\TerrainToMeshConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Editor\\TerrainToMeshConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\assets\\lunar landscape 3d\\resources\\geometry\\terrainfade.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D9FA42A4-731D-CCD6-3395-289DC7972352}|Assembly-CSharp.csproj|solutionrelative:assets\\lunar landscape 3d\\resources\\geometry\\terrainfade.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraGaze.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Camera\\CameraGaze.cs",
+              "RelativeDocumentMoniker": "Assets\\_Dev\\Camera\\CameraGaze.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Camera\\CameraGaze.cs",
+              "RelativeToolTip": "Assets\\_Dev\\Camera\\CameraGaze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:56:08.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AstroChoice.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Game\\New\\AstroChoice.cs",
+              "RelativeDocumentMoniker": "Assets\\_Dev\\Game\\New\\AstroChoice.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Game\\New\\AstroChoice.cs",
+              "RelativeToolTip": "Assets\\_Dev\\Game\\New\\AstroChoice.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwGwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:30:29.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextIntroduction.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\IntroCinemachine\\TextIntroduction.cs",
+              "RelativeDocumentMoniker": "Assets\\_Dev\\IntroCinemachine\\TextIntroduction.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\IntroCinemachine\\TextIntroduction.cs",
+              "RelativeToolTip": "Assets\\_Dev\\IntroCinemachine\\TextIntroduction.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:35:41.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GyroCameraController.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Camera\\GyroCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Dev\\Camera\\GyroCameraController.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Camera\\GyroCameraController.cs",
+              "RelativeToolTip": "Assets\\_Dev\\Camera\\GyroCameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:33:30.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TerrainToMeshConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\Editor\\TerrainToMeshConverter.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\TerrainToMeshConverter.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\Editor\\TerrainToMeshConverter.cs",
+              "RelativeToolTip": "Assets\\Editor\\TerrainToMeshConverter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:46:36.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TerrainFade.shader",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\Lunar Landscape 3D\\Resources\\Geometry\\TerrainFade.shader",
+              "RelativeDocumentMoniker": "Assets\\Lunar Landscape 3D\\Resources\\Geometry\\TerrainFade.shader",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\Lunar Landscape 3D\\Resources\\Geometry\\TerrainFade.shader",
+              "RelativeToolTip": "Assets\\Lunar Landscape 3D\\Resources\\Geometry\\TerrainFade.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-07T00:28:48.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AstroApresentation.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Game\\AstroApresentation.cs",
+              "RelativeDocumentMoniker": "Assets\\_Dev\\Game\\AstroApresentation.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Game\\AstroApresentation.cs",
+              "RelativeToolTip": "Assets\\_Dev\\Game\\AstroApresentation.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwJUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:43:41.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AstroOrbit.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Game\\AstroOrbit.cs",
+              "RelativeDocumentMoniker": "Assets\\_Dev\\Game\\AstroOrbit.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\VrGame\\Assets\\_Dev\\Game\\AstroOrbit.cs",
+              "RelativeToolTip": "Assets\\_Dev\\Game\\AstroOrbit.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAWwGcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:22:30.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
